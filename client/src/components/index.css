@@ -1,0 +1,35 @@
+.header {
+    background-color: #83b3b5;
+    padding: 0 30px;
+}
+
+.login {
+    font-size: 30px;
+}
+
+.credits {
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.logout {
+    font-size: 20px;
+}
+
+.header .emaily {
+    font-size: 50px;
+}
+
+.btn {
+    padding: 0 20px;
+}
+
+.Landing {
+    background-color: #D4E8E9;
+}
+
+img {
+    width: auto;
+    height: auto;
+    align-content: center;
+}
