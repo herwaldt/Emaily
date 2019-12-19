@@ -3,6 +3,14 @@
     padding: 0 30px;
 }
 
+.myTitle {
+    font-weight: bold;
+}
+
+.card {
+    background-color: #649294;
+}
+
 .login {
     font-size: 30px;
 }
@@ -22,6 +30,33 @@
 
 .btn {
     padding: 0 20px;
+}
+
+.errorMess {
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.entireForm {
+    margin: 5% auto;
+}
+
+.title {
+    font-size: 22px;
+}
+
+.values {
+    font-size: 18px;
+    font-style: italic;
+    margin: 5px 40px;
+}
+
+.review {
+    margin: 30px 10px;
+}
+
+.addButton {
+    background-color: #83b3b5;
 }
 
 .Landing {
